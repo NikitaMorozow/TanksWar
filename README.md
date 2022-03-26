@@ -2,4 +2,5 @@
 This game is about tank warfare
 
 ## Lecture List
-* TW01 Commit1
+* TW Commit1
+* TW Commit2
